@@ -1,7 +1,8 @@
 # Email-Metrics-Analyzer
+Description:
 A Python-based tool to search, filter, and analyze emails using keywords and date ranges. Includes functionality to retrieve email metadata, count keyword occurrences, and display insights.
 
-Enabling Your Email for Python Access
+Enabling Your Email for Python Access:
 1. Enable IMAP Access
 • Log in to your email account (e.g., Gmail).
 • Go to Settings > See all settings > Forwarding and POP/IMAP.
