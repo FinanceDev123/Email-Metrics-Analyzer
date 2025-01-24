@@ -29,6 +29,8 @@ Some email providers, such as Gmail, require you to enable less secure app acces
 • For Gmail users, IMAP Server: imap.gmail.com, Port: 993.
 • For Outlook users, IMAP Server: outlook.office365.com, Port: 993.
 
-Important: Be cautious when using your email credentials in scripts. Avoid sharing or exposing them. Use environment variables or encrypted configuration files whenever possible.
+Important: Be cautious when using your email credentials in scripts. Avoid sharing or exposing them. Use environment variables or encrypted configuration files whenever possible. Alternatively, if you only want to expirement with code you can always create a throwaway email account.
+
+Thank you for your attention.🙏
 
    
