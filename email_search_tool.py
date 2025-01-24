@@ -96,9 +96,9 @@ if __name__ == "__main__":
     EMAIL = input("Enter your email: ")
     PASSWORD = getpass.getpass("Enter your password: ")
 
-    DATE_FROM = datetime.date(2025, 1, 1)  # Change to the desired starting date of the search
+    DATE_FROM = datetime.date(2025, 1, 1)  # Change to the desired starting date of the search - Format: Year/Month/Day
     DATE_TO = datetime.date(2025, 1, 24)  # Input today's date
-    KEYWORDS = ["event", "Test"] # Input the desired Keywords
+    KEYWORDS = ["Keyword 1", "Keyword 2"] # Input the desired Keywords
 
     mail = connect_to_email(EMAIL, PASSWORD)
     if mail:
